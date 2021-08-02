@@ -1,0 +1,37 @@
+.contact {
+  margin: 10px;
+}
+.contact tr{
+  height: 7rem;
+}
+.contact th{
+  width: 150px;
+  margin: 10px;
+  text-align: right;
+  padding-right: 10px;
+}
+.contact td{
+  width: 480px;
+}
+.text{
+  width: 480px;
+  }
+.inquiry {
+  width: 480px;
+  height: 7rem;
+  }
+.content p{
+  text-align: center;
+  }
+  .button {
+    width: 100px;
+    height: 4rem;
+    padding: 10px;
+    font-size: 2rem;
+    background-color: #008B8B;
+    color: #fff;
+    border-color: none;
+}
+.button:hover {
+  opacity: 0.7
+}
